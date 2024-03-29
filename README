@@ -1,0 +1,9 @@
+Ubuntu 23.08
+
+Se projet a pour but de repproduire la fonction printf avec certains flags.
+
+Un dossier test est rajouté pour pouvoir le tester.
+
+La commande make à partir du dossier test permet de compiler le fichier main.c ainsi que la bibliothèque ft_printf.
+
+Plus d'info dans Subject.
